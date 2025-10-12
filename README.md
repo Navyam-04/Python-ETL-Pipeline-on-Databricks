@@ -1,1 +1,1 @@
-# RetaiSales_Python-ETL-Pipeline-on-Databricks
+# RetailSales_Python-ETL-Pipeline-on-Databricks

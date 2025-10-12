@@ -1,0 +1,750 @@
+{"store_id":"LA002","store_name":"Store_2","product_category":"Household","date":1725148800000,"unit_sales":16.0,"dollar_sales":96.28,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Beverages","date":1725148800000,"unit_sales":14.0,"dollar_sales":86.63,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Produce","date":1726358400000,"unit_sales":18.0,"dollar_sales":298.26,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Household","date":1725667200000,"unit_sales":7.0,"dollar_sales":25.69,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Beverages","date":1726617600000,"unit_sales":25.0,"dollar_sales":85.46,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Beverages","date":1727049600000,"unit_sales":3.0,"dollar_sales":41.71,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Household","date":1726358400000,"unit_sales":11.0,"dollar_sales":95.3,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Snacks","date":1726876800000,"unit_sales":35.0,"dollar_sales":529.35,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Household","date":1725753600000,"unit_sales":50.0,"dollar_sales":798.4,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Produce","date":1727654400000,"unit_sales":46.0,"dollar_sales":352.55,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Produce","date":1725753600000,"unit_sales":35.0,"dollar_sales":235.53,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Beverages","date":1726444800000,"unit_sales":49.0,"dollar_sales":139.56,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Personal Care","date":1726185600000,"unit_sales":39.0,"dollar_sales":777.28,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Produce","date":1726963200000,"unit_sales":49.0,"dollar_sales":333.34,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Snacks","date":1726531200000,"unit_sales":33.0,"dollar_sales":608.1,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"produce","date":1726617600000,"unit_sales":1.0,"dollar_sales":12.78,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Snacks","date":1725235200000,"unit_sales":37.0,"dollar_sales":704.67,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Personal Care","date":1725494400000,"unit_sales":36.0,"dollar_sales":179.0,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Household","date":1727049600000,"unit_sales":26.0,"dollar_sales":517.73,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"beverages","date":1726012800000,"unit_sales":38.0,"dollar_sales":454.88,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Household","date":1727481600000,"unit_sales":5.0,"dollar_sales":56.27,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Snacks","date":1726444800000,"unit_sales":31.0,"dollar_sales":512.58,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Beverages","date":1727481600000,"unit_sales":44.0,"dollar_sales":605.54,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Snacks","date":1725667200000,"unit_sales":35.0,"dollar_sales":352.63,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Produce","date":1727308800000,"unit_sales":7.0,"dollar_sales":20.37,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Personal Care","date":1726444800000,"unit_sales":null,"dollar_sales":245.89,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Produce","date":1726272000000,"unit_sales":43.0,"dollar_sales":642.05,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Household","date":1725235200000,"unit_sales":4.0,"dollar_sales":11.61,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Snacks","date":1727481600000,"unit_sales":5.0,"dollar_sales":63.55,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Produce","date":1725235200000,"unit_sales":6.0,"dollar_sales":57.28,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Snacks","date":1726185600000,"unit_sales":43.0,"dollar_sales":585.62,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1726704000000,"unit_sales":5.0,"dollar_sales":58.39,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Snacks","date":1725926400000,"unit_sales":29.0,"dollar_sales":493.21,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Beverages","date":1725926400000,"unit_sales":9.0,"dollar_sales":60.84,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Household","date":1725667200000,"unit_sales":33.0,"dollar_sales":356.19,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Snacks","date":1727222400000,"unit_sales":41.0,"dollar_sales":805.09,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Snacks","date":1725321600000,"unit_sales":35.0,"dollar_sales":92.7,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Beverages","date":1727568000000,"unit_sales":23.0,"dollar_sales":132.97,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Snacks","date":1727136000000,"unit_sales":16.0,"dollar_sales":281.01,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Snacks","date":1727308800000,"unit_sales":18.0,"dollar_sales":87.58,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Household","date":1726099200000,"unit_sales":15.0,"dollar_sales":90.19,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Produce","date":1726876800000,"unit_sales":26.0,"dollar_sales":370.01,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1725840000000,"unit_sales":7.0,"dollar_sales":89.17,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"produce","date":1726185600000,"unit_sales":13.0,"dollar_sales":85.61,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Personal Care","date":1726099200000,"unit_sales":5.0,"dollar_sales":95.4,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Personal Care","date":1725926400000,"unit_sales":21.0,"dollar_sales":194.11,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Produce","date":1726790400000,"unit_sales":20.0,"dollar_sales":186.19,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Personal Care","date":1726358400000,"unit_sales":29.0,"dollar_sales":410.68,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Produce","date":1725926400000,"unit_sales":43.0,"dollar_sales":575.9,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Snacks","date":1727308800000,"unit_sales":10.0,"dollar_sales":24.4,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Produce","date":1727568000000,"unit_sales":13.0,"dollar_sales":194.09,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Personal Care","date":1727222400000,"unit_sales":15.0,"dollar_sales":77.49,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Personal Care","date":1727308800000,"unit_sales":43.0,"dollar_sales":497.1,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Produce","date":1726272000000,"unit_sales":29.0,"dollar_sales":526.34,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Snacks","date":1726444800000,"unit_sales":18.0,"dollar_sales":178.52,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Snacks","date":1725494400000,"unit_sales":25.0,"dollar_sales":362.28,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Personal Care","date":1725667200000,"unit_sales":25.0,"dollar_sales":457.18,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Personal Care","date":1725926400000,"unit_sales":27.0,"dollar_sales":315.58,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Personal Care","date":1726963200000,"unit_sales":47.0,"dollar_sales":233.63,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1726704000000,"unit_sales":6.0,"dollar_sales":81.42,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Household","date":1726358400000,"unit_sales":22.0,"dollar_sales":345.45,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Produce","date":1725148800000,"unit_sales":4.0,"dollar_sales":79.99,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Snacks","date":1725753600000,"unit_sales":2.0,"dollar_sales":26.37,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Household","date":1727049600000,"unit_sales":50.0,"dollar_sales":432.01,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Household","date":1727654400000,"unit_sales":37.0,"dollar_sales":525.11,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Household","date":1725408000000,"unit_sales":44.0,"dollar_sales":563.53,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"household","date":1726963200000,"unit_sales":5.0,"dollar_sales":55.54,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Personal Care","date":1726876800000,"unit_sales":46.0,"dollar_sales":218.68,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Personal Care","date":1726358400000,"unit_sales":47.0,"dollar_sales":595.23,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Personal Care","date":1727222400000,"unit_sales":37.0,"dollar_sales":480.48,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Household","date":1726099200000,"unit_sales":22.0,"dollar_sales":154.74,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Produce","date":1726444800000,"unit_sales":49.0,"dollar_sales":309.97,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Personal Care","date":1725753600000,"unit_sales":45.0,"dollar_sales":287.08,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Household","date":1726012800000,"unit_sales":45.0,"dollar_sales":457.53,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Snacks","date":1727222400000,"unit_sales":13.0,"dollar_sales":76.63,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Snacks","date":1725408000000,"unit_sales":19.0,"dollar_sales":115.8,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Household","date":1726617600000,"unit_sales":45.0,"dollar_sales":854.71,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Snacks","date":1726012800000,"unit_sales":4.0,"dollar_sales":26.18,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Snacks","date":1725494400000,"unit_sales":37.0,"dollar_sales":706.12,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Produce","date":1727308800000,"unit_sales":15.0,"dollar_sales":239.44,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Produce","date":1726704000000,"unit_sales":4.0,"dollar_sales":51.89,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"snacks","date":1725580800000,"unit_sales":12.0,"dollar_sales":143.23,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Household","date":1725753600000,"unit_sales":46.0,"dollar_sales":326.09,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Snacks","date":1726963200000,"unit_sales":28.0,"dollar_sales":113.85,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Household","date":1725580800000,"unit_sales":39.0,"dollar_sales":603.77,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Produce","date":1726531200000,"unit_sales":32.0,"dollar_sales":316.15,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Produce","date":1725753600000,"unit_sales":38.0,"dollar_sales":726.34,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Household","date":1727654400000,"unit_sales":12.0,"dollar_sales":239.34,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Household","date":1726012800000,"unit_sales":43.0,"dollar_sales":166.96,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Personal Care","date":1725235200000,"unit_sales":6.0,"dollar_sales":45.97,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Personal Care","date":1726358400000,"unit_sales":4.0,"dollar_sales":21.51,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Produce","date":1725840000000,"unit_sales":9.0,"dollar_sales":168.28,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Snacks","date":1727308800000,"unit_sales":46.0,"dollar_sales":223.14,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Snacks","date":1725408000000,"unit_sales":32.0,"dollar_sales":601.21,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Produce","date":1726358400000,"unit_sales":10.0,"dollar_sales":89.05,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Produce","date":1727654400000,"unit_sales":18.0,"dollar_sales":301.86,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Snacks","date":1727481600000,"unit_sales":29.0,"dollar_sales":339.14,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Snacks","date":1727049600000,"unit_sales":37.0,"dollar_sales":329.06,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Snacks","date":1726963200000,"unit_sales":32.0,"dollar_sales":619.74,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Personal Care","date":1726531200000,"unit_sales":1.0,"dollar_sales":15.0,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Personal Care","date":1726790400000,"unit_sales":42.0,"dollar_sales":144.72,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Produce","date":1727481600000,"unit_sales":3.0,"dollar_sales":39.34,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Beverages","date":1726272000000,"unit_sales":49.0,"dollar_sales":656.97,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Beverages","date":1727308800000,"unit_sales":19.0,"dollar_sales":160.59,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Beverages","date":1725580800000,"unit_sales":40.0,"dollar_sales":707.0,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Household","date":1726358400000,"unit_sales":43.0,"dollar_sales":93.27,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Household","date":1726704000000,"unit_sales":41.0,"dollar_sales":791.98,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Personal Care","date":1725753600000,"unit_sales":37.0,"dollar_sales":313.07,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Beverages","date":1725840000000,"unit_sales":37.0,"dollar_sales":650.13,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Household","date":1726790400000,"unit_sales":15.0,"dollar_sales":201.89,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Beverages","date":1727568000000,"unit_sales":20.0,"dollar_sales":323.9,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Personal Care","date":1727136000000,"unit_sales":12.0,"dollar_sales":67.37,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Household","date":1727308800000,"unit_sales":48.0,"dollar_sales":848.02,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"produce","date":1727481600000,"unit_sales":24.0,"dollar_sales":87.01,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Personal Care","date":1726704000000,"unit_sales":41.0,"dollar_sales":775.94,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Produce","date":1727654400000,"unit_sales":15.0,"dollar_sales":204.87,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Household","date":1725235200000,"unit_sales":32.0,"dollar_sales":130.89,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Produce","date":1726272000000,"unit_sales":48.0,"dollar_sales":723.78,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Household","date":1727049600000,"unit_sales":14.0,"dollar_sales":139.73,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Personal Care","date":1725235200000,"unit_sales":18.0,"dollar_sales":97.5,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1725148800000,"unit_sales":22.0,"dollar_sales":140.45,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Snacks","date":1726704000000,"unit_sales":15.0,"dollar_sales":118.71,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Household","date":1726617600000,"unit_sales":12.0,"dollar_sales":47.74,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Snacks","date":1725148800000,"unit_sales":17.0,"dollar_sales":50.03,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Beverages","date":1726704000000,"unit_sales":29.0,"dollar_sales":321.0,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Beverages","date":1726876800000,"unit_sales":4.0,"dollar_sales":79.9,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Beverages","date":1727568000000,"unit_sales":21.0,"dollar_sales":271.94,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Produce","date":1726185600000,"unit_sales":34.0,"dollar_sales":248.48,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Snacks","date":1727136000000,"unit_sales":28.0,"dollar_sales":283.58,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Personal Care","date":1726012800000,"unit_sales":21.0,"dollar_sales":293.41,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Personal Care","date":1725321600000,"unit_sales":7.0,"dollar_sales":107.82,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Beverages","date":1726012800000,"unit_sales":27.0,"dollar_sales":225.85,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Beverages","date":1726099200000,"unit_sales":37.0,"dollar_sales":411.94,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Household","date":1725408000000,"unit_sales":37.0,"dollar_sales":224.62,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Produce","date":1725148800000,"unit_sales":43.0,"dollar_sales":728.0,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Snacks","date":1725148800000,"unit_sales":10.0,"dollar_sales":121.94,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Personal Care","date":1725667200000,"unit_sales":27.0,"dollar_sales":274.47,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1725321600000,"unit_sales":10.0,"dollar_sales":48.33,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Personal Care","date":1726358400000,"unit_sales":18.0,"dollar_sales":105.84,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"household","date":1726531200000,"unit_sales":3.0,"dollar_sales":17.91,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Household","date":1725926400000,"unit_sales":8.0,"dollar_sales":17.11,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Household","date":1727395200000,"unit_sales":5.0,"dollar_sales":45.74,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Produce","date":1726272000000,"unit_sales":26.0,"dollar_sales":384.05,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Household","date":1726358400000,"unit_sales":6.0,"dollar_sales":59.16,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Household","date":1727136000000,"unit_sales":15.0,"dollar_sales":119.93,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Snacks","date":1726099200000,"unit_sales":16.0,"dollar_sales":61.61,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Personal Care","date":1725580800000,"unit_sales":30.0,"dollar_sales":467.4,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Household","date":1727481600000,"unit_sales":10.0,"dollar_sales":99.16,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Beverages","date":1726531200000,"unit_sales":20.0,"dollar_sales":206.23,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Produce","date":1726790400000,"unit_sales":25.0,"dollar_sales":258.22,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Produce","date":1726444800000,"unit_sales":10.0,"dollar_sales":192.39,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Snacks","date":1726531200000,"unit_sales":3.0,"dollar_sales":19.38,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Household","date":1727654400000,"unit_sales":25.0,"dollar_sales":233.95,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Beverages","date":1726012800000,"unit_sales":36.0,"dollar_sales":511.59,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Beverages","date":1726012800000,"unit_sales":38.0,"dollar_sales":529.91,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1727049600000,"unit_sales":20.0,"dollar_sales":241.21,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Personal Care","date":1725321600000,"unit_sales":33.0,"dollar_sales":280.93,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Snacks","date":1725753600000,"unit_sales":10.0,"dollar_sales":33.89,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Household","date":1726963200000,"unit_sales":50.0,"dollar_sales":656.23,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Personal Care","date":1727136000000,"unit_sales":3.0,"dollar_sales":28.19,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Snacks","date":1726617600000,"unit_sales":20.0,"dollar_sales":387.61,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Household","date":1726358400000,"unit_sales":50.0,"dollar_sales":443.69,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Personal Care","date":1725235200000,"unit_sales":24.0,"dollar_sales":287.56,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Personal Care","date":1725840000000,"unit_sales":33.0,"dollar_sales":153.53,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Beverages","date":1726272000000,"unit_sales":26.0,"dollar_sales":286.94,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Household","date":1727395200000,"unit_sales":10.0,"dollar_sales":44.77,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Produce","date":1726358400000,"unit_sales":1.0,"dollar_sales":18.31,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Personal Care","date":1726531200000,"unit_sales":8.0,"dollar_sales":127.77,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Beverages","date":1725321600000,"unit_sales":32.0,"dollar_sales":407.72,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Produce","date":1725148800000,"unit_sales":23.0,"dollar_sales":145.59,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Produce","date":1726531200000,"unit_sales":33.0,"dollar_sales":533.13,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Beverages","date":1727136000000,"unit_sales":23.0,"dollar_sales":372.45,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Beverages","date":1725494400000,"unit_sales":23.0,"dollar_sales":272.05,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Snacks","date":1727308800000,"unit_sales":5.0,"dollar_sales":74.44,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Household","date":1727654400000,"unit_sales":33.0,"dollar_sales":302.55,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Household","date":1727481600000,"unit_sales":18.0,"dollar_sales":76.33,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Personal Care","date":1725580800000,"unit_sales":45.0,"dollar_sales":492.99,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Household","date":1726617600000,"unit_sales":21.0,"dollar_sales":80.78,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Personal Care","date":1727049600000,"unit_sales":23.0,"dollar_sales":231.11,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Personal Care","date":1726963200000,"unit_sales":24.0,"dollar_sales":269.65,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Beverages","date":1725494400000,"unit_sales":16.0,"dollar_sales":256.21,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Household","date":1726099200000,"unit_sales":29.0,"dollar_sales":456.33,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Snacks","date":1725148800000,"unit_sales":32.0,"dollar_sales":362.22,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Personal Care","date":1727049600000,"unit_sales":13.0,"dollar_sales":54.7,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Household","date":1726963200000,"unit_sales":46.0,"dollar_sales":145.77,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Household","date":1727308800000,"unit_sales":33.0,"dollar_sales":199.2,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Household","date":1726704000000,"unit_sales":30.0,"dollar_sales":493.98,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Personal Care","date":1726531200000,"unit_sales":50.0,"dollar_sales":468.49,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Snacks","date":1726099200000,"unit_sales":50.0,"dollar_sales":596.17,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Snacks","date":1726531200000,"unit_sales":20.0,"dollar_sales":99.28,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Beverages","date":1727481600000,"unit_sales":17.0,"dollar_sales":94.07,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Produce","date":1726704000000,"unit_sales":10.0,"dollar_sales":50.82,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Produce","date":1725235200000,"unit_sales":17.0,"dollar_sales":233.25,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Household","date":1726876800000,"unit_sales":31.0,"dollar_sales":198.64,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Personal Care","date":1726444800000,"unit_sales":14.0,"dollar_sales":113.73,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Household","date":1725494400000,"unit_sales":33.0,"dollar_sales":399.62,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Household","date":1725235200000,"unit_sales":25.0,"dollar_sales":438.87,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Household","date":1727136000000,"unit_sales":13.0,"dollar_sales":204.57,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Personal Care","date":1725321600000,"unit_sales":33.0,"dollar_sales":337.6,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Personal Care","date":1727568000000,"unit_sales":19.0,"dollar_sales":221.55,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Personal Care","date":1725235200000,"unit_sales":4.0,"dollar_sales":49.06,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Produce","date":1725840000000,"unit_sales":44.0,"dollar_sales":571.95,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Snacks","date":1726099200000,"unit_sales":13.0,"dollar_sales":166.98,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Personal Care","date":1726531200000,"unit_sales":10.0,"dollar_sales":129.13,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Household","date":1726704000000,"unit_sales":33.0,"dollar_sales":558.0,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Beverages","date":1726963200000,"unit_sales":27.0,"dollar_sales":337.68,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1725753600000,"unit_sales":38.0,"dollar_sales":404.63,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Beverages","date":1725667200000,"unit_sales":29.0,"dollar_sales":221.75,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Beverages","date":1727481600000,"unit_sales":46.0,"dollar_sales":206.33,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Personal Care","date":1725580800000,"unit_sales":35.0,"dollar_sales":285.67,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Personal Care","date":1726790400000,"unit_sales":13.0,"dollar_sales":250.02,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Snacks","date":1727049600000,"unit_sales":45.0,"dollar_sales":661.04,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Beverages","date":1725926400000,"unit_sales":37.0,"dollar_sales":524.63,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Household","date":1725235200000,"unit_sales":46.0,"dollar_sales":157.44,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Produce","date":1727654400000,"unit_sales":45.0,"dollar_sales":310.01,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Snacks","date":1725753600000,"unit_sales":4.0,"dollar_sales":15.21,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Snacks","date":1727654400000,"unit_sales":27.0,"dollar_sales":371.31,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Beverages","date":1726876800000,"unit_sales":50.0,"dollar_sales":180.51,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Snacks","date":1727568000000,"unit_sales":3.0,"dollar_sales":59.85,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Household","date":1725148800000,"unit_sales":37.0,"dollar_sales":475.45,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Produce","date":1727481600000,"unit_sales":30.0,"dollar_sales":207.33,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Household","date":1725148800000,"unit_sales":19.0,"dollar_sales":232.18,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Beverages","date":1726012800000,"unit_sales":26.0,"dollar_sales":365.21,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Snacks","date":1726185600000,"unit_sales":29.0,"dollar_sales":451.46,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Snacks","date":1727049600000,"unit_sales":4.0,"dollar_sales":56.08,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Beverages","date":1727049600000,"unit_sales":41.0,"dollar_sales":758.1,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Produce","date":1726358400000,"unit_sales":24.0,"dollar_sales":227.65,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1727481600000,"unit_sales":34.0,"dollar_sales":341.41,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Produce","date":1725667200000,"unit_sales":35.0,"dollar_sales":164.41,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1726444800000,"unit_sales":33.0,"dollar_sales":330.62,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Household","date":1726358400000,"unit_sales":47.0,"dollar_sales":112.42,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Beverages","date":1726099200000,"unit_sales":35.0,"dollar_sales":696.3,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Personal Care","date":1727222400000,"unit_sales":24.0,"dollar_sales":476.91,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Household","date":1725494400000,"unit_sales":8.0,"dollar_sales":41.7,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Personal Care","date":1725926400000,"unit_sales":44.0,"dollar_sales":657.52,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Snacks","date":1725840000000,"unit_sales":47.0,"dollar_sales":741.6,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Beverages","date":1725667200000,"unit_sales":7.0,"dollar_sales":88.84,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Personal Care","date":1726185600000,"unit_sales":15.0,"dollar_sales":175.74,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Produce","date":1726012800000,"unit_sales":39.0,"dollar_sales":620.32,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Household","date":1726272000000,"unit_sales":18.0,"dollar_sales":55.75,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Produce","date":1727308800000,"unit_sales":21.0,"dollar_sales":305.2,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Snacks","date":1727481600000,"unit_sales":20.0,"dollar_sales":348.71,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Snacks","date":1726531200000,"unit_sales":25.0,"dollar_sales":159.29,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Snacks","date":1726617600000,"unit_sales":4.0,"dollar_sales":27.33,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Personal Care","date":1725667200000,"unit_sales":14.0,"dollar_sales":247.11,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Personal Care","date":1727136000000,"unit_sales":16.0,"dollar_sales":232.34,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Produce","date":1726358400000,"unit_sales":42.0,"dollar_sales":355.6,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Household","date":1727222400000,"unit_sales":14.0,"dollar_sales":121.42,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Produce","date":1726617600000,"unit_sales":38.0,"dollar_sales":568.49,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Household","date":1726617600000,"unit_sales":17.0,"dollar_sales":267.59,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Snacks","date":1725580800000,"unit_sales":47.0,"dollar_sales":556.38,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Beverages","date":1725235200000,"unit_sales":43.0,"dollar_sales":123.55,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Snacks","date":1725148800000,"unit_sales":33.0,"dollar_sales":336.87,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"beverages","date":1725148800000,"unit_sales":35.0,"dollar_sales":417.54,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Personal Care","date":1726531200000,"unit_sales":12.0,"dollar_sales":47.12,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Personal Care","date":1725840000000,"unit_sales":6.0,"dollar_sales":52.29,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Beverages","date":1726876800000,"unit_sales":6.0,"dollar_sales":null,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Personal Care","date":1726444800000,"unit_sales":42.0,"dollar_sales":676.99,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Household","date":1726444800000,"unit_sales":3.0,"dollar_sales":55.9,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Produce","date":1725667200000,"unit_sales":10.0,"dollar_sales":155.41,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Produce","date":1726963200000,"unit_sales":22.0,"dollar_sales":196.0,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Beverages","date":1725235200000,"unit_sales":28.0,"dollar_sales":173.0,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Household","date":1725148800000,"unit_sales":29.0,"dollar_sales":314.1,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Produce","date":1725321600000,"unit_sales":19.0,"dollar_sales":310.93,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"personal care","date":1727136000000,"unit_sales":21.0,"dollar_sales":178.34,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Beverages","date":1725494400000,"unit_sales":12.0,"dollar_sales":117.09,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Household","date":1727308800000,"unit_sales":25.0,"dollar_sales":55.55,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Snacks","date":1726531200000,"unit_sales":44.0,"dollar_sales":389.54,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Personal Care","date":1725840000000,"unit_sales":20.0,"dollar_sales":214.32,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"snacks","date":1726790400000,"unit_sales":30.0,"dollar_sales":117.77,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Household","date":1726358400000,"unit_sales":28.0,"dollar_sales":467.0,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Personal Care","date":1725580800000,"unit_sales":21.0,"dollar_sales":152.17,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Beverages","date":1726099200000,"unit_sales":37.0,"dollar_sales":207.07,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Household","date":1726358400000,"unit_sales":45.0,"dollar_sales":146.02,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Personal Care","date":1727049600000,"unit_sales":25.0,"dollar_sales":83.28,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Beverages","date":1726617600000,"unit_sales":24.0,"dollar_sales":351.11,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Produce","date":1725235200000,"unit_sales":42.0,"dollar_sales":596.17,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Household","date":1725408000000,"unit_sales":15.0,"dollar_sales":167.88,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Household","date":1725494400000,"unit_sales":2.0,"dollar_sales":21.38,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Household","date":1726099200000,"unit_sales":22.0,"dollar_sales":224.31,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Beverages","date":1726012800000,"unit_sales":20.0,"dollar_sales":56.09,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Snacks","date":1726531200000,"unit_sales":36.0,"dollar_sales":175.77,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Personal Care","date":1726876800000,"unit_sales":26.0,"dollar_sales":null,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Beverages","date":1725840000000,"unit_sales":37.0,"dollar_sales":141.77,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Household","date":1726531200000,"unit_sales":39.0,"dollar_sales":350.82,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Household","date":1727395200000,"unit_sales":40.0,"dollar_sales":504.92,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Personal Care","date":1726531200000,"unit_sales":27.0,"dollar_sales":343.86,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Snacks","date":1726617600000,"unit_sales":32.0,"dollar_sales":230.37,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Snacks","date":1726444800000,"unit_sales":13.0,"dollar_sales":216.76,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Beverages","date":1725580800000,"unit_sales":37.0,"dollar_sales":94.55,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Personal Care","date":1726704000000,"unit_sales":36.0,"dollar_sales":403.0,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Personal Care","date":1727222400000,"unit_sales":35.0,"dollar_sales":207.68,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Household","date":1726358400000,"unit_sales":23.0,"dollar_sales":402.95,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Produce","date":1727308800000,"unit_sales":45.0,"dollar_sales":374.01,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Household","date":1726704000000,"unit_sales":35.0,"dollar_sales":247.08,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Beverages","date":1727568000000,"unit_sales":9.0,"dollar_sales":173.97,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Snacks","date":1725753600000,"unit_sales":46.0,"dollar_sales":358.7,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Personal Care","date":1726876800000,"unit_sales":25.0,"dollar_sales":253.4,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Household","date":1726444800000,"unit_sales":38.0,"dollar_sales":77.69,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Produce","date":1727308800000,"unit_sales":26.0,"dollar_sales":153.94,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Produce","date":1726617600000,"unit_sales":9.0,"dollar_sales":109.72,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Personal Care","date":1726876800000,"unit_sales":null,"dollar_sales":8.47,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Household","date":1727568000000,"unit_sales":11.0,"dollar_sales":195.14,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Personal Care","date":1725235200000,"unit_sales":41.0,"dollar_sales":307.47,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"snacks","date":1725321600000,"unit_sales":38.0,"dollar_sales":230.71,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Beverages","date":1726444800000,"unit_sales":15.0,"dollar_sales":133.43,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Snacks","date":1726876800000,"unit_sales":5.0,"dollar_sales":57.75,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Personal Care","date":1727654400000,"unit_sales":40.0,"dollar_sales":574.33,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Personal Care","date":1726099200000,"unit_sales":21.0,"dollar_sales":341.03,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1725926400000,"unit_sales":43.0,"dollar_sales":763.89,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Snacks","date":1727308800000,"unit_sales":32.0,"dollar_sales":286.27,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Household","date":1727654400000,"unit_sales":9.0,"dollar_sales":80.67,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Beverages","date":1726704000000,"unit_sales":1.0,"dollar_sales":6.72,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Personal Care","date":1727222400000,"unit_sales":28.0,"dollar_sales":409.71,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Produce","date":1725321600000,"unit_sales":14.0,"dollar_sales":273.53,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Personal Care","date":1725926400000,"unit_sales":47.0,"dollar_sales":900.6,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1726790400000,"unit_sales":20.0,"dollar_sales":279.79,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Produce","date":1726099200000,"unit_sales":34.0,"dollar_sales":547.19,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Beverages","date":1727222400000,"unit_sales":22.0,"dollar_sales":363.61,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Personal Care","date":1726444800000,"unit_sales":33.0,"dollar_sales":279.91,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1726963200000,"unit_sales":15.0,"dollar_sales":230.01,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Snacks","date":1726185600000,"unit_sales":12.0,"dollar_sales":225.13,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Snacks","date":1726012800000,"unit_sales":27.0,"dollar_sales":499.11,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Snacks","date":1725580800000,"unit_sales":34.0,"dollar_sales":668.63,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Produce","date":1725321600000,"unit_sales":30.0,"dollar_sales":64.3,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Produce","date":1726099200000,"unit_sales":32.0,"dollar_sales":638.73,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Personal Care","date":1727654400000,"unit_sales":2.0,"dollar_sales":null,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Personal Care","date":1727222400000,"unit_sales":48.0,"dollar_sales":724.31,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Household","date":1727049600000,"unit_sales":6.0,"dollar_sales":16.74,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Beverages","date":1727136000000,"unit_sales":38.0,"dollar_sales":141.37,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Snacks","date":1726963200000,"unit_sales":16.0,"dollar_sales":116.0,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Household","date":1726358400000,"unit_sales":15.0,"dollar_sales":50.17,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Personal Care","date":1726358400000,"unit_sales":21.0,"dollar_sales":195.66,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Snacks","date":1725321600000,"unit_sales":44.0,"dollar_sales":328.94,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Personal Care","date":1726099200000,"unit_sales":33.0,"dollar_sales":95.08,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Produce","date":1726617600000,"unit_sales":16.0,"dollar_sales":59.28,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Personal Care","date":1725667200000,"unit_sales":24.0,"dollar_sales":344.48,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Personal Care","date":1725667200000,"unit_sales":9.0,"dollar_sales":32.9,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Personal Care","date":1727395200000,"unit_sales":32.0,"dollar_sales":80.98,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Snacks","date":1727568000000,"unit_sales":3.0,"dollar_sales":39.16,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Household","date":1725321600000,"unit_sales":25.0,"dollar_sales":111.76,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Household","date":1726185600000,"unit_sales":31.0,"dollar_sales":365.84,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Household","date":1725148800000,"unit_sales":39.0,"dollar_sales":231.75,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Beverages","date":1725580800000,"unit_sales":16.0,"dollar_sales":221.18,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Personal Care","date":1727481600000,"unit_sales":23.0,"dollar_sales":433.18,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Produce","date":1727654400000,"unit_sales":2.0,"dollar_sales":29.32,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Household","date":1726617600000,"unit_sales":12.0,"dollar_sales":129.93,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Produce","date":1726012800000,"unit_sales":13.0,"dollar_sales":214.71,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Snacks","date":1725148800000,"unit_sales":38.0,"dollar_sales":558.01,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Personal Care","date":1727049600000,"unit_sales":38.0,"dollar_sales":145.11,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Household","date":1726876800000,"unit_sales":12.0,"dollar_sales":176.75,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Snacks","date":1725494400000,"unit_sales":47.0,"dollar_sales":95.52,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Produce","date":1726012800000,"unit_sales":15.0,"dollar_sales":202.7,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Snacks","date":1726012800000,"unit_sales":41.0,"dollar_sales":735.37,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Household","date":1725148800000,"unit_sales":14.0,"dollar_sales":90.88,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Personal Care","date":1726358400000,"unit_sales":11.0,"dollar_sales":197.14,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Snacks","date":1726876800000,"unit_sales":11.0,"dollar_sales":111.35,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Personal Care","date":1725580800000,"unit_sales":11.0,"dollar_sales":166.93,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Snacks","date":1726272000000,"unit_sales":39.0,"dollar_sales":702.61,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Produce","date":1727136000000,"unit_sales":17.0,"dollar_sales":236.14,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Household","date":1725235200000,"unit_sales":1.0,"dollar_sales":9.7,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Snacks","date":1725667200000,"unit_sales":41.0,"dollar_sales":297.36,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Household","date":1727568000000,"unit_sales":6.0,"dollar_sales":81.32,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Personal Care","date":1725840000000,"unit_sales":30.0,"dollar_sales":202.24,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Household","date":1726963200000,"unit_sales":35.0,"dollar_sales":330.81,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Personal Care","date":1726963200000,"unit_sales":37.0,"dollar_sales":661.18,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Produce","date":1726704000000,"unit_sales":37.0,"dollar_sales":525.24,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Snacks","date":1727308800000,"unit_sales":9.0,"dollar_sales":24.91,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Produce","date":1727395200000,"unit_sales":17.0,"dollar_sales":131.84,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Beverages","date":1726358400000,"unit_sales":45.0,"dollar_sales":594.68,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Beverages","date":1727654400000,"unit_sales":37.0,"dollar_sales":593.18,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Personal Care","date":1726876800000,"unit_sales":37.0,"dollar_sales":479.57,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Personal Care","date":1725235200000,"unit_sales":22.0,"dollar_sales":317.44,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Household","date":1727395200000,"unit_sales":20.0,"dollar_sales":140.92,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Personal Care","date":1725926400000,"unit_sales":50.0,"dollar_sales":843.24,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Personal Care","date":1727654400000,"unit_sales":48.0,"dollar_sales":514.57,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Snacks","date":1726185600000,"unit_sales":50.0,"dollar_sales":866.17,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Personal Care","date":1725235200000,"unit_sales":4.0,"dollar_sales":74.1,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Beverages","date":1726963200000,"unit_sales":16.0,"dollar_sales":139.27,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Household","date":1725580800000,"unit_sales":48.0,"dollar_sales":813.87,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Snacks","date":1727481600000,"unit_sales":42.0,"dollar_sales":254.18,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Snacks","date":1726444800000,"unit_sales":42.0,"dollar_sales":214.94,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Personal Care","date":1726272000000,"unit_sales":23.0,"dollar_sales":236.03,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1725408000000,"unit_sales":33.0,"dollar_sales":659.66,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Beverages","date":1726444800000,"unit_sales":22.0,"dollar_sales":435.39,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Snacks","date":1725667200000,"unit_sales":34.0,"dollar_sales":536.47,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Snacks","date":1726963200000,"unit_sales":47.0,"dollar_sales":115.54,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Produce","date":1726704000000,"unit_sales":13.0,"dollar_sales":106.3,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Household","date":1726531200000,"unit_sales":11.0,"dollar_sales":188.45,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Snacks","date":1727222400000,"unit_sales":44.0,"dollar_sales":800.48,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Household","date":1726099200000,"unit_sales":38.0,"dollar_sales":277.13,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Snacks","date":1726444800000,"unit_sales":33.0,"dollar_sales":137.17,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Household","date":1725667200000,"unit_sales":27.0,"dollar_sales":533.78,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Snacks","date":1726012800000,"unit_sales":21.0,"dollar_sales":281.84,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Beverages","date":1726444800000,"unit_sales":9.0,"dollar_sales":117.55,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"household","date":1725667200000,"unit_sales":null,"dollar_sales":18.06,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Snacks","date":1725926400000,"unit_sales":7.0,"dollar_sales":62.33,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Produce","date":1727136000000,"unit_sales":39.0,"dollar_sales":445.93,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"snacks","date":1727222400000,"unit_sales":11.0,"dollar_sales":209.72,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Produce","date":1726704000000,"unit_sales":11.0,"dollar_sales":46.39,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Beverages","date":1726790400000,"unit_sales":43.0,"dollar_sales":169.68,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Personal Care","date":1725840000000,"unit_sales":45.0,"dollar_sales":214.03,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Snacks","date":1726790400000,"unit_sales":27.0,"dollar_sales":457.7,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Produce","date":1725667200000,"unit_sales":13.0,"dollar_sales":208.04,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Snacks","date":1727654400000,"unit_sales":45.0,"dollar_sales":845.83,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Personal Care","date":1726963200000,"unit_sales":10.0,"dollar_sales":190.9,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Household","date":1725926400000,"unit_sales":30.0,"dollar_sales":87.04,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"beverages","date":1726272000000,"unit_sales":7.0,"dollar_sales":121.26,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Personal Care","date":1727568000000,"unit_sales":40.0,"dollar_sales":273.18,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Personal Care","date":1725840000000,"unit_sales":45.0,"dollar_sales":779.04,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Snacks","date":1727481600000,"unit_sales":7.0,"dollar_sales":66.42,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Beverages","date":1726790400000,"unit_sales":44.0,"dollar_sales":784.92,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Household","date":1725321600000,"unit_sales":42.0,"dollar_sales":321.56,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Personal Care","date":1725408000000,"unit_sales":43.0,"dollar_sales":648.43,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1725235200000,"unit_sales":42.0,"dollar_sales":790.38,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Household","date":1725753600000,"unit_sales":18.0,"dollar_sales":52.31,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Produce","date":1726358400000,"unit_sales":29.0,"dollar_sales":103.95,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Personal Care","date":1725408000000,"unit_sales":27.0,"dollar_sales":71.41,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Produce","date":1727568000000,"unit_sales":36.0,"dollar_sales":206.04,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Produce","date":1726012800000,"unit_sales":50.0,"dollar_sales":657.78,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Household","date":1725148800000,"unit_sales":23.0,"dollar_sales":389.57,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Personal Care","date":1725494400000,"unit_sales":7.0,"dollar_sales":46.04,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Household","date":1727049600000,"unit_sales":7.0,"dollar_sales":109.4,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"produce","date":1726963200000,"unit_sales":33.0,"dollar_sales":145.97,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Produce","date":1726444800000,"unit_sales":50.0,"dollar_sales":929.05,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Produce","date":1726963200000,"unit_sales":39.0,"dollar_sales":697.65,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Household","date":1726185600000,"unit_sales":19.0,"dollar_sales":192.87,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Produce","date":1727395200000,"unit_sales":21.0,"dollar_sales":311.09,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Snacks","date":1727049600000,"unit_sales":33.0,"dollar_sales":388.24,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Personal Care","date":1726963200000,"unit_sales":44.0,"dollar_sales":680.31,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Snacks","date":1726185600000,"unit_sales":4.0,"dollar_sales":56.26,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Beverages","date":1725494400000,"unit_sales":45.0,"dollar_sales":725.33,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Produce","date":1727481600000,"unit_sales":15.0,"dollar_sales":230.45,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Personal Care","date":1727654400000,"unit_sales":25.0,"dollar_sales":237.45,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Personal Care","date":1727481600000,"unit_sales":15.0,"dollar_sales":276.1,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Personal Care","date":1725926400000,"unit_sales":12.0,"dollar_sales":236.43,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Household","date":1726272000000,"unit_sales":36.0,"dollar_sales":243.23,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Snacks","date":1725235200000,"unit_sales":21.0,"dollar_sales":267.62,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Snacks","date":1726531200000,"unit_sales":12.0,"dollar_sales":136.45,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Household","date":1726963200000,"unit_sales":22.0,"dollar_sales":186.88,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Household","date":1725408000000,"unit_sales":29.0,"dollar_sales":183.46,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Produce","date":1725840000000,"unit_sales":47.0,"dollar_sales":333.27,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Produce","date":1726012800000,"unit_sales":6.0,"dollar_sales":114.41,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Snacks","date":1725667200000,"unit_sales":44.0,"dollar_sales":423.97,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Beverages","date":1726876800000,"unit_sales":48.0,"dollar_sales":688.74,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Household","date":1727308800000,"unit_sales":36.0,"dollar_sales":117.65,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Beverages","date":1726012800000,"unit_sales":25.0,"dollar_sales":352.98,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Beverages","date":1727049600000,"unit_sales":23.0,"dollar_sales":430.21,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Personal Care","date":1726185600000,"unit_sales":43.0,"dollar_sales":109.85,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Snacks","date":1726876800000,"unit_sales":20.0,"dollar_sales":283.82,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Beverages","date":1725235200000,"unit_sales":37.0,"dollar_sales":471.37,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Produce","date":1726272000000,"unit_sales":10.0,"dollar_sales":48.97,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1727481600000,"unit_sales":49.0,"dollar_sales":920.35,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Produce","date":1725667200000,"unit_sales":32.0,"dollar_sales":612.09,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Snacks","date":1727568000000,"unit_sales":21.0,"dollar_sales":225.66,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Household","date":1726099200000,"unit_sales":28.0,"dollar_sales":140.99,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Household","date":1727395200000,"unit_sales":9.0,"dollar_sales":128.09,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Beverages","date":1726617600000,"unit_sales":12.0,"dollar_sales":163.44,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Beverages","date":1725840000000,"unit_sales":47.0,"dollar_sales":157.79,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Produce","date":1727222400000,"unit_sales":14.0,"dollar_sales":256.39,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Snacks","date":1726185600000,"unit_sales":50.0,"dollar_sales":630.64,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Snacks","date":1725148800000,"unit_sales":40.0,"dollar_sales":572.6,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Personal Care","date":1727136000000,"unit_sales":23.0,"dollar_sales":62.73,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Household","date":1726531200000,"unit_sales":25.0,"dollar_sales":261.35,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Household","date":1726876800000,"unit_sales":48.0,"dollar_sales":323.51,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Personal Care","date":1725840000000,"unit_sales":15.0,"dollar_sales":169.42,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Snacks","date":1726531200000,"unit_sales":29.0,"dollar_sales":144.45,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Beverages","date":1726790400000,"unit_sales":43.0,"dollar_sales":264.29,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Personal Care","date":1725580800000,"unit_sales":2.0,"dollar_sales":12.77,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1725494400000,"unit_sales":11.0,"dollar_sales":73.14,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Household","date":1727568000000,"unit_sales":6.0,"dollar_sales":35.39,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Produce","date":1727308800000,"unit_sales":50.0,"dollar_sales":263.7,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"snacks","date":1725321600000,"unit_sales":25.0,"dollar_sales":223.46,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Snacks","date":1727395200000,"unit_sales":39.0,"dollar_sales":145.6,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Beverages","date":1727222400000,"unit_sales":6.0,"dollar_sales":null,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Personal Care","date":1726531200000,"unit_sales":24.0,"dollar_sales":425.92,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Produce","date":1726704000000,"unit_sales":7.0,"dollar_sales":67.61,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Produce","date":1727568000000,"unit_sales":27.0,"dollar_sales":179.29,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Personal Care","date":1725148800000,"unit_sales":42.0,"dollar_sales":239.3,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Produce","date":1725840000000,"unit_sales":28.0,"dollar_sales":340.59,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Snacks","date":1726444800000,"unit_sales":24.0,"dollar_sales":289.53,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Snacks","date":1727136000000,"unit_sales":43.0,"dollar_sales":178.17,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Household","date":1726185600000,"unit_sales":36.0,"dollar_sales":null,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Produce","date":1726444800000,"unit_sales":28.0,"dollar_sales":100.42,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Produce","date":1726790400000,"unit_sales":19.0,"dollar_sales":281.37,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Produce","date":1725667200000,"unit_sales":19.0,"dollar_sales":104.6,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Beverages","date":1725580800000,"unit_sales":18.0,"dollar_sales":288.61,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Beverages","date":1727654400000,"unit_sales":36.0,"dollar_sales":256.35,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Personal Care","date":1727654400000,"unit_sales":37.0,"dollar_sales":77.1,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Produce","date":1725408000000,"unit_sales":17.0,"dollar_sales":302.09,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Personal Care","date":1727222400000,"unit_sales":44.0,"dollar_sales":452.89,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Household","date":1727308800000,"unit_sales":27.0,"dollar_sales":518.35,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Produce","date":1725321600000,"unit_sales":12.0,"dollar_sales":126.94,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Snacks","date":1726444800000,"unit_sales":16.0,"dollar_sales":243.8,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Beverages","date":1725494400000,"unit_sales":8.0,"dollar_sales":148.51,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Produce","date":1726099200000,"unit_sales":21.0,"dollar_sales":228.1,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Produce","date":1725753600000,"unit_sales":9.0,"dollar_sales":26.77,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Beverages","date":1726358400000,"unit_sales":45.0,"dollar_sales":509.75,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Household","date":1726012800000,"unit_sales":40.0,"dollar_sales":700.53,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Snacks","date":1726099200000,"unit_sales":32.0,"dollar_sales":308.19,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Produce","date":1725580800000,"unit_sales":9.0,"dollar_sales":176.64,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Personal Care","date":1727481600000,"unit_sales":null,"dollar_sales":60.13,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Household","date":1726617600000,"unit_sales":32.0,"dollar_sales":236.82,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Beverages","date":1727395200000,"unit_sales":29.0,"dollar_sales":446.68,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Personal Care","date":1725148800000,"unit_sales":8.0,"dollar_sales":66.56,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Produce","date":1726012800000,"unit_sales":32.0,"dollar_sales":510.25,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Snacks","date":1727481600000,"unit_sales":41.0,"dollar_sales":678.1,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Household","date":1725580800000,"unit_sales":15.0,"dollar_sales":114.64,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Produce","date":1727136000000,"unit_sales":34.0,"dollar_sales":658.9,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Beverages","date":1727136000000,"unit_sales":14.0,"dollar_sales":70.06,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Personal Care","date":1727222400000,"unit_sales":34.0,"dollar_sales":536.18,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Snacks","date":1725753600000,"unit_sales":48.0,"dollar_sales":341.53,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Household","date":1727481600000,"unit_sales":31.0,"dollar_sales":322.69,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Produce","date":1726704000000,"unit_sales":30.0,"dollar_sales":400.77,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Snacks","date":1726617600000,"unit_sales":6.0,"dollar_sales":59.72,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Household","date":1726099200000,"unit_sales":31.0,"dollar_sales":null,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Snacks","date":1726790400000,"unit_sales":1.0,"dollar_sales":11.87,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Personal Care","date":1727395200000,"unit_sales":15.0,"dollar_sales":101.0,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Produce","date":1725926400000,"unit_sales":18.0,"dollar_sales":169.78,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Produce","date":1725840000000,"unit_sales":32.0,"dollar_sales":172.17,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Snacks","date":1725840000000,"unit_sales":46.0,"dollar_sales":455.01,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Personal Care","date":1725926400000,"unit_sales":24.0,"dollar_sales":248.31,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Personal Care","date":1727222400000,"unit_sales":5.0,"dollar_sales":58.89,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Snacks","date":1727222400000,"unit_sales":25.0,"dollar_sales":397.05,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Snacks","date":1726531200000,"unit_sales":31.0,"dollar_sales":279.13,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Beverages","date":1726531200000,"unit_sales":17.0,"dollar_sales":181.26,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Personal Care","date":1725753600000,"unit_sales":21.0,"dollar_sales":47.7,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Personal Care","date":1727308800000,"unit_sales":45.0,"dollar_sales":572.93,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1726012800000,"unit_sales":4.0,"dollar_sales":33.6,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Household","date":1726617600000,"unit_sales":29.0,"dollar_sales":440.72,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Personal Care","date":1727049600000,"unit_sales":36.0,"dollar_sales":262.98,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Produce","date":1725840000000,"unit_sales":36.0,"dollar_sales":175.9,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Produce","date":1727222400000,"unit_sales":25.0,"dollar_sales":380.15,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Produce","date":1726963200000,"unit_sales":25.0,"dollar_sales":135.44,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Beverages","date":1725408000000,"unit_sales":34.0,"dollar_sales":471.24,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Snacks","date":1726444800000,"unit_sales":7.0,"dollar_sales":18.01,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Snacks","date":1726099200000,"unit_sales":39.0,"dollar_sales":581.93,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Beverages","date":1727308800000,"unit_sales":24.0,"dollar_sales":289.06,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Beverages","date":1726531200000,"unit_sales":47.0,"dollar_sales":153.55,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Personal Care","date":1726617600000,"unit_sales":13.0,"dollar_sales":71.19,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Beverages","date":1727136000000,"unit_sales":50.0,"dollar_sales":674.76,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Snacks","date":1727308800000,"unit_sales":36.0,"dollar_sales":332.21,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Household","date":1726617600000,"unit_sales":24.0,"dollar_sales":226.13,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Produce","date":1726185600000,"unit_sales":48.0,"dollar_sales":315.53,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"produce","date":1725148800000,"unit_sales":9.0,"dollar_sales":178.93,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Household","date":1727222400000,"unit_sales":36.0,"dollar_sales":403.3,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Produce","date":1727568000000,"unit_sales":16.0,"dollar_sales":99.1,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Household","date":1727136000000,"unit_sales":31.0,"dollar_sales":158.48,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Beverages","date":1725321600000,"unit_sales":50.0,"dollar_sales":400.95,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1727654400000,"unit_sales":41.0,"dollar_sales":655.73,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Produce","date":1726012800000,"unit_sales":45.0,"dollar_sales":268.85,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1726531200000,"unit_sales":15.0,"dollar_sales":146.62,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Personal Care","date":1726617600000,"unit_sales":17.0,"dollar_sales":60.03,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Personal Care","date":1726444800000,"unit_sales":42.0,"dollar_sales":515.93,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1725321600000,"unit_sales":43.0,"dollar_sales":406.11,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Household","date":1725580800000,"unit_sales":40.0,"dollar_sales":671.54,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Household","date":1726963200000,"unit_sales":10.0,"dollar_sales":156.39,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Household","date":1725148800000,"unit_sales":45.0,"dollar_sales":741.47,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Produce","date":1725667200000,"unit_sales":34.0,"dollar_sales":527.22,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Produce","date":1726185600000,"unit_sales":43.0,"dollar_sales":493.74,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Personal Care","date":1725235200000,"unit_sales":42.0,"dollar_sales":798.55,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Beverages","date":1727481600000,"unit_sales":2.0,"dollar_sales":14.53,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Produce","date":1726444800000,"unit_sales":35.0,"dollar_sales":125.45,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Produce","date":1725753600000,"unit_sales":20.0,"dollar_sales":160.09,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Produce","date":1725753600000,"unit_sales":18.0,"dollar_sales":299.05,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Snacks","date":1725840000000,"unit_sales":10.0,"dollar_sales":81.52,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Snacks","date":1727481600000,"unit_sales":27.0,"dollar_sales":170.82,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Snacks","date":1725494400000,"unit_sales":42.0,"dollar_sales":188.76,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Snacks","date":1726272000000,"unit_sales":42.0,"dollar_sales":789.37,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Snacks","date":1726012800000,"unit_sales":47.0,"dollar_sales":118.94,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Snacks","date":1725494400000,"unit_sales":7.0,"dollar_sales":30.57,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Produce","date":1725753600000,"unit_sales":15.0,"dollar_sales":92.35,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Household","date":1726444800000,"unit_sales":12.0,"dollar_sales":208.06,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Household","date":1727654400000,"unit_sales":27.0,"dollar_sales":162.16,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Household","date":1726444800000,"unit_sales":30.0,"dollar_sales":539.3,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Produce","date":1726185600000,"unit_sales":48.0,"dollar_sales":590.15,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Produce","date":1726531200000,"unit_sales":26.0,"dollar_sales":512.43,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Personal Care","date":1725926400000,"unit_sales":26.0,"dollar_sales":465.9,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Snacks","date":1727568000000,"unit_sales":30.0,"dollar_sales":508.14,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Personal Care","date":1725494400000,"unit_sales":27.0,"dollar_sales":211.2,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Household","date":1725321600000,"unit_sales":21.0,"dollar_sales":303.47,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Produce","date":1725321600000,"unit_sales":46.0,"dollar_sales":410.02,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Snacks","date":1727481600000,"unit_sales":11.0,"dollar_sales":194.03,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"snacks","date":1725926400000,"unit_sales":8.0,"dollar_sales":145.39,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Beverages","date":1726617600000,"unit_sales":39.0,"dollar_sales":697.66,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Produce","date":1726790400000,"unit_sales":1.0,"dollar_sales":6.4,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Beverages","date":1725494400000,"unit_sales":42.0,"dollar_sales":347.86,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Beverages","date":1727654400000,"unit_sales":4.0,"dollar_sales":15.84,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Produce","date":1726704000000,"unit_sales":12.0,"dollar_sales":232.72,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Beverages","date":1727395200000,"unit_sales":49.0,"dollar_sales":474.9,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Personal Care","date":1726531200000,"unit_sales":34.0,"dollar_sales":196.43,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Personal Care","date":1725321600000,"unit_sales":47.0,"dollar_sales":676.6,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Snacks","date":1726099200000,"unit_sales":40.0,"dollar_sales":485.1,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Beverages","date":1725667200000,"unit_sales":8.0,"dollar_sales":19.45,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"household","date":1725235200000,"unit_sales":23.0,"dollar_sales":278.01,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Produce","date":1725926400000,"unit_sales":36.0,"dollar_sales":281.9,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Snacks","date":1725148800000,"unit_sales":13.0,"dollar_sales":103.34,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Snacks","date":1726444800000,"unit_sales":41.0,"dollar_sales":421.94,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Produce","date":1725926400000,"unit_sales":47.0,"dollar_sales":667.76,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Household","date":1725494400000,"unit_sales":2.0,"dollar_sales":16.21,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Beverages","date":1726790400000,"unit_sales":49.0,"dollar_sales":369.9,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Household","date":1726358400000,"unit_sales":14.0,"dollar_sales":160.33,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Beverages","date":1726531200000,"unit_sales":31.0,"dollar_sales":566.97,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Household","date":1727222400000,"unit_sales":10.0,"dollar_sales":158.51,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"beverages","date":1727136000000,"unit_sales":30.0,"dollar_sales":269.3,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Personal Care","date":1726012800000,"unit_sales":3.0,"dollar_sales":11.57,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Snacks","date":1725667200000,"unit_sales":19.0,"dollar_sales":132.61,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Beverages","date":1725408000000,"unit_sales":40.0,"dollar_sales":482.93,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Snacks","date":1726704000000,"unit_sales":11.0,"dollar_sales":36.11,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Personal Care","date":1725408000000,"unit_sales":4.0,"dollar_sales":14.2,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Household","date":1726790400000,"unit_sales":20.0,"dollar_sales":159.64,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1725494400000,"unit_sales":45.0,"dollar_sales":469.3,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Snacks","date":1725753600000,"unit_sales":40.0,"dollar_sales":265.8,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Beverages","date":1726444800000,"unit_sales":5.0,"dollar_sales":52.78,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Snacks","date":1726704000000,"unit_sales":33.0,"dollar_sales":127.14,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Produce","date":1726185600000,"unit_sales":27.0,"dollar_sales":169.95,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Produce","date":1727395200000,"unit_sales":28.0,"dollar_sales":451.29,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Produce","date":1727136000000,"unit_sales":32.0,"dollar_sales":129.85,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Produce","date":1725321600000,"unit_sales":7.0,"dollar_sales":100.37,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Produce","date":1727568000000,"unit_sales":49.0,"dollar_sales":659.07,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Produce","date":1726790400000,"unit_sales":29.0,"dollar_sales":160.14,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Produce","date":1725321600000,"unit_sales":1.0,"dollar_sales":13.01,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Produce","date":1725148800000,"unit_sales":23.0,"dollar_sales":91.42,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Personal Care","date":1727049600000,"unit_sales":26.0,"dollar_sales":230.57,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Personal Care","date":1727395200000,"unit_sales":10.0,"dollar_sales":71.92,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Personal Care","date":1726963200000,"unit_sales":9.0,"dollar_sales":31.72,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Personal Care","date":1725580800000,"unit_sales":33.0,"dollar_sales":317.93,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Snacks","date":1726444800000,"unit_sales":46.0,"dollar_sales":507.43,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Household","date":1726444800000,"unit_sales":8.0,"dollar_sales":99.56,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Beverages","date":1726531200000,"unit_sales":34.0,"dollar_sales":612.63,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Produce","date":1726963200000,"unit_sales":38.0,"dollar_sales":289.75,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Personal Care","date":1727568000000,"unit_sales":37.0,"dollar_sales":562.72,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Produce","date":1727049600000,"unit_sales":48.0,"dollar_sales":358.72,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Produce","date":1727308800000,"unit_sales":2.0,"dollar_sales":14.33,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Household","date":1726790400000,"unit_sales":18.0,"dollar_sales":313.95,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Personal Care","date":1726963200000,"unit_sales":24.0,"dollar_sales":396.99,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Beverages","date":1726012800000,"unit_sales":10.0,"dollar_sales":127.2,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Personal Care","date":1726963200000,"unit_sales":47.0,"dollar_sales":633.39,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Snacks","date":1725235200000,"unit_sales":30.0,"dollar_sales":275.32,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA007","store_name":"Store_7","product_category":"personal care","date":1726963200000,"unit_sales":31.0,"dollar_sales":208.54,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Beverages","date":1726531200000,"unit_sales":7.0,"dollar_sales":129.63,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Household","date":1725840000000,"unit_sales":7.0,"dollar_sales":46.17,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Snacks","date":1727222400000,"unit_sales":34.0,"dollar_sales":null,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Beverages","date":1726272000000,"unit_sales":34.0,"dollar_sales":131.59,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Beverages","date":1726790400000,"unit_sales":4.0,"dollar_sales":75.57,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Produce","date":1727481600000,"unit_sales":9.0,"dollar_sales":78.91,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Personal Care","date":1726876800000,"unit_sales":18.0,"dollar_sales":285.27,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Household","date":1726185600000,"unit_sales":4.0,"dollar_sales":26.59,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Snacks","date":1726185600000,"unit_sales":42.0,"dollar_sales":456.0,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Household","date":1727049600000,"unit_sales":7.0,"dollar_sales":18.39,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Beverages","date":1726876800000,"unit_sales":3.0,"dollar_sales":41.89,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Personal Care","date":1727049600000,"unit_sales":null,"dollar_sales":305.32,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Produce","date":1726704000000,"unit_sales":23.0,"dollar_sales":184.04,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Household","date":1726617600000,"unit_sales":6.0,"dollar_sales":102.85,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Personal Care","date":1725926400000,"unit_sales":7.0,"dollar_sales":93.46,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Snacks","date":1725235200000,"unit_sales":2.0,"dollar_sales":29.91,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Personal Care","date":1726617600000,"unit_sales":2.0,"dollar_sales":5.33,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Produce","date":1726358400000,"unit_sales":10.0,"dollar_sales":153.39,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"produce","date":1726444800000,"unit_sales":3.0,"dollar_sales":19.1,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Snacks","date":1726790400000,"unit_sales":38.0,"dollar_sales":119.75,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Household","date":1726272000000,"unit_sales":48.0,"dollar_sales":682.14,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Beverages","date":1727222400000,"unit_sales":38.0,"dollar_sales":194.64,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Snacks","date":1726617600000,"unit_sales":29.0,"dollar_sales":185.18,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Personal Care","date":1725148800000,"unit_sales":6.0,"dollar_sales":12.69,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Personal Care","date":1727049600000,"unit_sales":45.0,"dollar_sales":192.78,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1727049600000,"unit_sales":39.0,"dollar_sales":204.36,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Beverages","date":1726272000000,"unit_sales":36.0,"dollar_sales":224.69,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Personal Care","date":1725753600000,"unit_sales":50.0,"dollar_sales":663.82,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Snacks","date":1726444800000,"unit_sales":11.0,"dollar_sales":154.69,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Personal Care","date":1726790400000,"unit_sales":3.0,"dollar_sales":11.64,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Beverages","date":1725408000000,"unit_sales":16.0,"dollar_sales":239.76,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Snacks","date":1726012800000,"unit_sales":7.0,"dollar_sales":43.88,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1726444800000,"unit_sales":28.0,"dollar_sales":129.05,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Snacks","date":1725840000000,"unit_sales":22.0,"dollar_sales":94.38,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Household","date":1727222400000,"unit_sales":15.0,"dollar_sales":269.33,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Snacks","date":1726617600000,"unit_sales":6.0,"dollar_sales":56.46,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Personal Care","date":1725148800000,"unit_sales":48.0,"dollar_sales":849.93,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Produce","date":1727654400000,"unit_sales":1.0,"dollar_sales":9.52,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Personal Care","date":1726531200000,"unit_sales":31.0,"dollar_sales":513.82,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"snacks","date":1725667200000,"unit_sales":23.0,"dollar_sales":168.46,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Produce","date":1727136000000,"unit_sales":2.0,"dollar_sales":39.15,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Beverages","date":1727049600000,"unit_sales":41.0,"dollar_sales":134.18,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Produce","date":1726617600000,"unit_sales":14.0,"dollar_sales":226.5,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Beverages","date":1727568000000,"unit_sales":8.0,"dollar_sales":71.15,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Snacks","date":1726617600000,"unit_sales":9.0,"dollar_sales":176.96,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Snacks","date":1727222400000,"unit_sales":21.0,"dollar_sales":175.33,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Personal Care","date":1726358400000,"unit_sales":33.0,"dollar_sales":378.85,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Household","date":1726790400000,"unit_sales":44.0,"dollar_sales":836.73,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Beverages","date":1725926400000,"unit_sales":7.0,"dollar_sales":34.76,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Personal Care","date":1725926400000,"unit_sales":44.0,"dollar_sales":516.82,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Beverages","date":1725667200000,"unit_sales":2.0,"dollar_sales":35.38,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Household","date":1726876800000,"unit_sales":32.0,"dollar_sales":405.77,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Household","date":1727308800000,"unit_sales":15.0,"dollar_sales":160.75,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Snacks","date":1726790400000,"unit_sales":46.0,"dollar_sales":535.24,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Snacks","date":1725580800000,"unit_sales":8.0,"dollar_sales":21.93,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Beverages","date":1727049600000,"unit_sales":43.0,"dollar_sales":331.31,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Beverages","date":1725408000000,"unit_sales":26.0,"dollar_sales":487.74,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Household","date":1726531200000,"unit_sales":42.0,"dollar_sales":617.32,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Produce","date":1727308800000,"unit_sales":47.0,"dollar_sales":861.22,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Produce","date":1726963200000,"unit_sales":8.0,"dollar_sales":60.36,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Snacks","date":1726790400000,"unit_sales":38.0,"dollar_sales":436.08,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Personal Care","date":1726531200000,"unit_sales":13.0,"dollar_sales":140.77,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Household","date":1726185600000,"unit_sales":1.0,"dollar_sales":7.12,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Personal Care","date":1727136000000,"unit_sales":29.0,"dollar_sales":208.67,"store_zip":"90005","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Snacks","date":1725494400000,"unit_sales":20.0,"dollar_sales":210.86,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Household","date":1726272000000,"unit_sales":27.0,"dollar_sales":139.0,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Produce","date":1725926400000,"unit_sales":32.0,"dollar_sales":88.33,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Beverages","date":1725148800000,"unit_sales":10.0,"dollar_sales":67.28,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Snacks","date":1727654400000,"unit_sales":2.0,"dollar_sales":8.3,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Produce","date":1726444800000,"unit_sales":28.0,"dollar_sales":493.65,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Household","date":1725148800000,"unit_sales":11.0,"dollar_sales":137.17,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Household","date":1725840000000,"unit_sales":27.0,"dollar_sales":363.22,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Snacks","date":1725667200000,"unit_sales":49.0,"dollar_sales":181.36,"store_zip":"900XX","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Household","date":1725840000000,"unit_sales":7.0,"dollar_sales":81.34,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Household","date":1726272000000,"unit_sales":11.0,"dollar_sales":42.28,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Produce","date":1727049600000,"unit_sales":35.0,"dollar_sales":518.9,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Household","date":1726444800000,"unit_sales":20.0,"dollar_sales":288.78,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Household","date":1727049600000,"unit_sales":2.0,"dollar_sales":30.8,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Snacks","date":1725494400000,"unit_sales":9.0,"dollar_sales":176.94,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Snacks","date":1725235200000,"unit_sales":7.0,"dollar_sales":18.13,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Beverages","date":1727222400000,"unit_sales":8.0,"dollar_sales":148.49,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Household","date":1725494400000,"unit_sales":38.0,"dollar_sales":313.92,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1725321600000,"unit_sales":38.0,"dollar_sales":598.06,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Beverages","date":1727136000000,"unit_sales":14.0,"dollar_sales":259.96,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Household","date":1727395200000,"unit_sales":25.0,"dollar_sales":240.84,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Snacks","date":1726531200000,"unit_sales":32.0,"dollar_sales":503.07,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Personal Care","date":1725926400000,"unit_sales":39.0,"dollar_sales":594.79,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Beverages","date":1727481600000,"unit_sales":31.0,"dollar_sales":586.01,"store_zip":"90001","promotion_flag":false}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Produce","date":1726358400000,"unit_sales":43.0,"dollar_sales":609.63,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Household","date":1725321600000,"unit_sales":13.0,"dollar_sales":105.24,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Household","date":1726704000000,"unit_sales":49.0,"dollar_sales":794.33,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Snacks","date":1725840000000,"unit_sales":50.0,"dollar_sales":509.17,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA001","store_name":"Store_1","product_category":"Beverages","date":1725408000000,"unit_sales":5.0,"dollar_sales":54.83,"store_zip":"90002","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Produce","date":1726790400000,"unit_sales":7.0,"dollar_sales":109.78,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Produce","date":1725840000000,"unit_sales":22.0,"dollar_sales":364.55,"store_zip":"90001","promotion_flag":true}
+{"store_id":"LA007","store_name":"Store_7","product_category":"Household","date":1726358400000,"unit_sales":25.0,"dollar_sales":249.15,"store_zip":"90003","promotion_flag":true}
+{"store_id":"LA003","store_name":"Store_3","product_category":"Personal Care","date":1726444800000,"unit_sales":9.0,"dollar_sales":68.62,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Produce","date":1726963200000,"unit_sales":37.0,"dollar_sales":386.9,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Household","date":1726963200000,"unit_sales":50.0,"dollar_sales":980.0,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Produce","date":1727308800000,"unit_sales":2.0,"dollar_sales":31.55,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA006","store_name":"Store_6","product_category":"Snacks","date":1725235200000,"unit_sales":16.0,"dollar_sales":99.57,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Snacks","date":1726012800000,"unit_sales":2.0,"dollar_sales":23.38,"store_zip":"90004","promotion_flag":true}
+{"store_id":"LA005","store_name":"Store_5","product_category":"Personal Care","date":1725148800000,"unit_sales":38.0,"dollar_sales":91.21,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA002","store_name":"Store_2","product_category":"Snacks","date":1727049600000,"unit_sales":22.0,"dollar_sales":240.71,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Beverages","date":1726876800000,"unit_sales":35.0,"dollar_sales":204.87,"store_zip":"90002","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1727136000000,"unit_sales":46.0,"dollar_sales":790.99,"store_zip":"90005","promotion_flag":true}
+{"store_id":"LA008","store_name":"Store_8","product_category":"Snacks","date":1726272000000,"unit_sales":23.0,"dollar_sales":375.4,"store_zip":"90003","promotion_flag":false}
+{"store_id":"LA004","store_name":"Store_4","product_category":"Personal Care","date":1726272000000,"unit_sales":17.0,"dollar_sales":225.24,"store_zip":"900XX","promotion_flag":false}
+{"store_id":"LA009","store_name":"Store_9","product_category":"Snacks","date":1727481600000,"unit_sales":37.0,"dollar_sales":406.47,"store_zip":"90004","promotion_flag":false}
+{"store_id":"LA010","store_name":"Store_10","product_category":"Beverages","date":1727136000000,"unit_sales":34.0,"dollar_sales":190.8,"store_zip":"90003","promotion_flag":false}

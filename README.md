@@ -127,10 +127,13 @@ The final, analytics-ready `sales_gold_final` table is structured as follows.
 
 ## 8. Future Improvements
 
-- **Parameterization:** Use Databricks Widgets or Job Parameters to make file paths and table names configurable.
-- **Secret Management:** Store the API key securely using Databricks Secrets instead of hardcoding it in the notebook.
-- **Data Quality Checks:** Add a fourth notebook to the workflow that runs data quality checks on the Gold table to ensure accuracy.
+- **Parameterization:** Convert hardcoded values like file paths and table names into **Databricks Job Parameters**. This would allow the pipeline to be run with different inputs without changing the code.
 
+- **Data Quality Checks:** Integrate a dedicated data quality testing step. This would run automated checks (e.g., for nulls, duplicates, or incorrect values) on the Bronze, Silver, and Gold tables to ensure data integrity throughout the pipeline.
+
+- **Incremental Loading:** For greater efficiency with large datasets, the pipeline could be optimized to process only new or changed data. This would involve using **Databricks Auto Loader** for ingestion and the **`MERGE`** command to upsert data into the final tables.
+
+- **CI/CD Integration:** Set up a CI/CD (Continuous Integration/Continuous Deployment) pipeline using **GitHub Actions** to automatically test and deploy code changes to the Databricks workspace, creating a professional and automated development lifecycle.
 ---
 
 ## 🛡️ License
@@ -146,6 +149,6 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?logo=internet-explorer)](https://mangalinavya.my.canva.site)
 
 
-_"Learn deeply. Build boldly. Share generously."-Navya Mangali_
 
-> "Learn deeply. Build boldly. Share generously."
+
+> "Learn deeply. Build boldly. Share generously."_Navya Mangali_

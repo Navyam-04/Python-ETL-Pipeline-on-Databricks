@@ -57,20 +57,36 @@ The pipeline is designed as a multi-task Databricks Job, where each task execute
 
 ---
 
-## 5. Setup and Execution Guide
+## 5. Setup and Configuration Guide
 
-Follow these steps to configure and run the pipeline in your own Databricks workspace.
+Follow these steps to set up the pipeline in your environment.
 
 ### Step 1: Upload Notebooks and Data
 1.  **Upload Notebooks:** Upload the three notebooks from the `notebooks` folder of this repository into a directory in your Databricks Workspace.
-2.  **Upload Data:** Upload the daily sales CSV files to a location in your Databricks Volume (e.g., `/Volumes/main/default/my_files/LA_Retail_Sales_By_Day/`). Ensure the path in the `01_Extract` notebook is updated to match this location.
+2.  **Upload Data:** Upload the daily sales CSV files to a location in your Databricks Volume (e.g., `/Volumes/main/default/my_files/LA_Retail_Sales_By_Day/`).
 
-### Step 2: Install Dependent Libraries
-The `02_Transform_and_Enrich` notebook requires the `requests` library to call the API.
-1.  Navigate to **Compute** in your Databricks workspace and select the cluster you intend to use.
+### Step 2: Configure Databricks Secrets (for API Key)
+To securely store your API key, you must create a Databricks secret. This requires the [Databricks CLI](https://docs.databricks.com/en/dev-tools/cli/index.html).
+
+1.  **Create a Secret Scope:** In your local terminal, run:
+    ```
+    databricks secrets create-scope --scope retail_etl_project
+    ```
+2.  **Add Your API Key:** Run the following command. A text editor will open for you to paste your key.
+    ```
+    databricks secrets put --scope retail_etl_project --key weather-api-key
+    ```
+3.  **Update the Code:** In your `02_Transform_and_Enrich` notebook, ensure the API key is read from secrets:
+    ```python
+    # Securely get the API key from Databricks Secrets
+    API_KEY = dbutils.secrets.get(scope="retail_etl_project", key="weather-api-key")
+    ```
+
+### Step 3: Install Dependent Libraries
+The `02_Transform_and_Enrich` notebook requires the `requests` library.
+1.  Navigate to **Compute** in your Databricks workspace and select the cluster you will use.
 2.  Click the **Libraries** tab, then **Install New**.
-3.  Select **PyPI** as the source, enter `requests` in the Package field, and click **Install**.
-
+3.  Select **PyPI**, enter `requests` in the Package field, and click **Install**.
 ---
 
 ## 6. How to Run the Pipeline

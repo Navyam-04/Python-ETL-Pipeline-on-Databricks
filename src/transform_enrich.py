@@ -24,7 +24,8 @@ print("Data cleaning and feature engineering complete.")
 
 # --- Transformation Step 2: Enriching with Weather Data ---
 print("Fetching weather data from API...")
-API_KEY = "5883b9ac08253fbd080c073b1832a6a8"
+# This securely gets the API key from the Databricks secret vault
+API_KEY = dbutils.secrets.get(scope="retail_etl_project", key="weather-api-key")
 LAT, LON = 34.0522, -118.2437
 weather_data = []
 unique_dates = sales_df['date'].dt.date.sort_values().unique()

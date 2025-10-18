@@ -151,4 +151,4 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 
 
 
-> "Learn deeply. Build boldly. Share generously."_Navya Mangali_
+> "Learn deeply. Build boldly. Share generously." –_Navya Mangali_

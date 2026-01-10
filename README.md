@@ -142,6 +142,7 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 
 ---
 ## 🔗 Connect with Me  
+
 👋 Hi, I'm **Mangali Navya**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/navya-mangali/)  
